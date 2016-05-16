@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon premier projet</string>
+    <string name="titulo_app">Bienvenue</string>
+    <string name="texto_inicio">Bienvenue</string>
+    <string name="boton_inicio">Enter</string>
+</resources>
